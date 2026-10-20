@@ -1,0 +1,106 @@
+Date,Product_Category,Product_Name,Units_Sold,Sales_Amount,Region
+2023-04-22,Hiking Boots,Boot Pro 3000,11.0,1320.32,Manitoba
+2023-06-24,Hiking Boots,Trail Runner 2000,7.0,1183.11,Manitoba
+2023-08-19,Fishing Gear,Fishing Rod,5.0,1553.63,Saskatchewan
+2023-04-22,Hiking Boots,Trail Runner 2000,14.0,1316.47,Northwestern Ontario
+2023-11-03,Tents,Tent XL,14.0,1308.21,Manitoba
+2022-04-16,Hiking Boots,Trail Runner 2000,8.0,1113.18,Northwestern Ontario
+2023-09-15,Fishing Gear,Fishing Reel,16.0,1597.73,Saskatchewan
+2022-02-05,Hiking Boots,Trail Runner 2000,18.0,1748.87,Northwestern Ontario
+2023-02-18,Tents,Tent X-Large,17.0,1860.06,Manitobia
+2023-12-16,Tents,Tent X-Large,15.0,916.38,Manitoba
+2022-02-05,Hiking Boots,Trail Runner 2000,16.0,1747.45,Saskatchewan
+2022-05-14,Winter Gear,Snow Pants,5.0,566.17,Saskatchewan
+2023-12-08,Winter Gear,Winter Coat XL,,,MB
+2023-02-25,Tents,Tent XL,5.0,273.47,MB
+2023-07-01,Fishing Gear,Fishing Reel,11.0,929.05,Saskatchewan
+2023-01-14,Hiking Boots,Boot Pro 3000,7.0,1156.94,MB
+2023-08-05,Hiking Boots,Trail Runner 2000,17.0,1193.71,MB
+2023-07-22,Winter Gear,Winter Coat XL,17.0,2122.58,Northwestern Ontario
+2022-08-13,Tents,Tent XL,11.0,1302.21,Saskatchewan
+2023-04-29,Tents,Tent X-Large,8.0,1573.85,Manitoba
+2022-12-24,Fishing Gear,Fishing Rod,12.0,957.96,MB
+2023-10-28,Hiking Boots,Boot Pro 3000,17.0,1178.37,MB
+2022-01-15,Tents,Tent X-Large,12.0,1605.89,Saskatchewan
+2023-11-18,Hiking Boots,Boot Pro 3000,6.0,565.15,Manitobia
+2023-08-26,Hiking Boots,Trail Runner 2000,6.0,790.6,MB
+2022-09-24,Fishing Gear,Fishing Rod,17.0,3045.3,Saskatchewan
+2022-02-26,Fishing Gear,Fishing Reel,14.0,1457.45,Manitobia
+2022-10-15,Winter Gear,Winter Coat XL,6.0,311.84,Manitobia
+2023-10-21,Winter Gear,Winter Coat XL,12.0,1731.32,MB
+2023-03-04,Tents,Tent XL,17.0,1576.08,Manitobia
+2022-12-31,Tents,Tent X-Large,9.0,1180.6,Manitobia
+2023-09-02,Hiking Boots,Trail Runner 2000,12.0,1515.12,Manitoba
+2023-02-15,Winter Gear,Snow Pants,14.0,3029.12,Northwestern Ontario
+2022-06-11,Tents,Tent XL,14.0,3297.7,Saskatchewan
+2022-03-12,Tents,Tent X-Large,,,Manitoba
+2022-12-10,Hiking Boots,Boot Pro 3000,13.0,2197.09,Northwestern Ontario
+2022-01-22,Hiking Boots,Trail Runner 2000,6.0,692.67,Saskatchewan
+2023-12-16,Hiking Boots,Boot Pro 3000,18.0,928.75,Northwestern Ontario
+2023-09-30,Hiking Boots,Boot Pro 3000,8.0,1209.32,Northwestern Ontario
+2022-11-12,Fishing Gear,Fishing Rod,16.0,1574.27,Manitobia
+2023-02-11,Winter Gear,Winter Coat XL,10.0,1195.93,Manitoba
+2022-12-24,Hiking Boots,Trail Runner 2000,18.0,3060.39,Saskatchewan
+2022-03-19,Hiking Boots,Boot Pro 3000,9.0,1479.94,Northwestern Ontario
+2022-11-26,Hiking Boots,Trail Runner 2000,12.0,2488.7,Saskatchewan
+2022-12-10,Hiking Boots,Trail Runner 2000,18.0,2299.16,Northwestern Ontario
+2022-09-03,Hiking Boots,Boot Pro 3000,12.0,2217.23,Manitoba
+2023-03-06,Fishing Gear,Fishing Reel,13.0,2328.11,Northwestern Ontario
+2022-01-10,Tents,Tent XL,15.0,886.72,Manitoba
+2022-05-14,Fishing Gear,Fishing Reel,13.0,1918.14,Manitobia
+2023-09-09,Winter Gear,Winter Coat XL,5.0,781.45,Manitobia
+2022-05-21,Fishing Gear,Fishing Reel,16.0,2513.3,Manitoba
+2023-11-11,Winter Gear,Winter Coat XL,19.0,2939.48,Manitoba
+2023-05-13,Fishing Gear,Fishing Rod,11.0,1620.98,Saskatchewan
+2023-09-16,Winter Gear,Winter Coat XL,19.0,2967.27,Manitobia
+2022-08-20,Hiking Boots,Boot Pro 3000,11.0,805.3,Manitoba
+2023-09-16,Winter Gear,Snow Pants,11.0,1893.12,Northwestern Ontario
+2022-05-28,Hiking Boots,Boot Pro 3000,5.0,345.22,Manitoba
+2022-03-26,Fishing Gear,Fishing Rod,7.0,778.46,Manitobia
+2023-09-30,Tents,Tent XL,9.0,1512.6,Northwestern Ontario
+2023-11-03,Winter Gear,Snow Pants,6.0,334.15,Saskatchewan
+2023-04-22,Tents,Tent XL,,,Northwestern Ontario
+2023-09-30,Hiking Boots,Boot Pro 3000,16.0,1150.62,Saskatchewan
+2022-12-31,Winter Gear,Winter Coat XL,18.0,4682.95,Northwestern Ontario
+2023-01-07,Fishing Gear,Fishing Rod,6.0,812.6,Manitobia
+2023-09-02,Hiking Boots,Trail Runner 2000,11.0,1361.76,Saskatchewan
+2023-08-19,Fishing Gear,Fishing Rod,17.0,3657.25,Manitobia
+2022-04-06,Winter Gear,Snow Pants,9.0,1404.38,MB
+2022-08-20,Winter Gear,Snow Pants,13.0,2121.72,Northwestern Ontario
+2022-02-19,Tents,Tent X-Large,10.0,1063.91,Saskatchewan
+2023-02-18,Tents,Tent XL,9.0,1376.79,Saskatchewan
+2023-01-15,Winter Gear,Winter Coat XL,12.0,2451.14,Manitoba
+2022-03-05,Tents,Tent XL,,,MB
+2023-06-15,Tents,Tent X-Large,8.0,1815.64,Saskatchewan
+2022-03-12,Winter Gear,Winter Coat XL,15.0,1174.39,Manitoba
+2022-02-07,Winter Gear,Snow Pants,5.0,1334.22,Northwestern Ontario
+2022-03-26,Fishing Gear,Fishing Reel,6.0,423.52,MB
+2022-07-23,Tents,Tent XL,19.0,2694.44,Northwestern Ontario
+2022-09-17,Winter Gear,Snow Pants,18.0,1994.32,Manitobia
+2022-12-17,Tents,Tent XL,7.0,772.06,Northwestern Ontario
+2023-02-25,Tents,Tent XL,,,Saskatchewan
+2022-09-17,Hiking Boots,Trail Runner 2000,7.0,907.94,MB
+2023-03-11,Tents,Tent X-Large,14.0,801.55,Northwestern Ontario
+2022-02-19,Winter Gear,Snow Pants,14.0,3682.99,Saskatchewan
+2022-06-04,Fishing Gear,Fishing Rod,,,Manitobia
+2022-03-19,Winter Gear,Snow Pants,9.0,898.17,Northwestern Ontario
+2023-04-22,Tents,Tent XL,7.0,633.56,Saskatchewan
+2022-02-12,Hiking Boots,Trail Runner 2000,13.0,1905.21,Saskatchewan
+2023-04-01,Winter Gear,Winter Coat XL,15.0,2653.99,Manitoba
+2023-08-26,Fishing Gear,Fishing Reel,9.0,2644.24,MB
+2023-02-12,Tents,Tent X-Large,18.0,1882.67,Saskatchewan
+2022-08-06,Hiking Boots,Boot Pro 3000,8.0,676.53,MB
+2023-09-02,Winter Gear,Snow Pants,6.0,428.09,MB
+2023-01-07,Tents,Tent XL,5.0,946.31,Saskatchewan
+2023-09-30,Hiking Boots,Boot Pro 3000,14.0,1997.52,MB
+2022-06-08,Tents,Tent XL,7.0,501.45,MB
+2022-06-18,Tents,Tent XL,,,Northwestern Ontario
+2022-01-01,Tents,Tent X-Large,8.0,1260.16,MB
+2022-01-29,Hiking Boots,Boot Pro 3000,10.0,631.53,Manitobia
+2022-01-15,Winter Gear,Snow Pants,15.0,2033.86,Manitoba
+2023-02-04,Winter Gear,Winter Coat XL,15.0,1699.01,Saskatchewan
+2022-03-09,Hiking Boots,Boot Pro 3000,7.0,843.28,Manitoba
+2022-08-27,Fishing Gear,Fishing Rod,19.0,1297.19,Manitoba
+2022-03-05,Tents,Tent XL,5.0,501.08,Northwestern Ontario
+2023-12-16,Fishing Gear,Fishing Rod,10.0,1305.47,Manitoba
+2023-07-10,Fishing Gear,Fishing Rod,10.0,1017.95,Manitoba
